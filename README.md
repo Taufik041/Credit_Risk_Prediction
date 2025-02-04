@@ -1,1 +1,1 @@
-# Credit_Risk_Prediction
+# Credit Risk Prediction
